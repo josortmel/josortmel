@@ -15,7 +15,7 @@ EcoDB and the projects below were built the way I work: one human holding the ar
 Shared memory for teams of agents. A 10-stage retrieval pipeline (GAMR) over a knowledge graph in PostgreSQL, with cross-modal search (a text query finds images and vice versa), multi-tenant isolation, role-based governance, and a desktop dashboard.
 
 - **Recall@5 of 0.92** on LoCoMo (ACL 2024); full GAMR pipeline under **50 ms p95**
-- Knowledge graph on **Apache AGE** (Cypher inside Postgres), ~100 canonical predicates
+- Knowledge  graph on **Apache AGE** (Cypher inside Postgres), ~100 canonical predicates
 - **32 MCP tools** + 30+ REST endpoints; in production since May 2026
 
 `Python · FastAPI · PostgreSQL/pgvector · Apache AGE · Docker · Jina embeddings · MCP · React · Electron`
