@@ -1,5 +1,3 @@
-<!-- Repo: josortmel/josortmel — this README renders on your GitHub profile page. -->
-
 # José Antonio Ortiz Melo — AI engineer · multi-agent systems
 
 <p align="center">
