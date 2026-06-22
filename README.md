@@ -1,7 +1,7 @@
 # José Antonio Ortiz Melo — AI engineer · multi-agent systems
 
 <p align="center">
-  <a href="https://github.com/josortmel/EcoDB"><img src="https://raw.githubusercontent.com/josortmel/EcoDB/main/docs/images/ecodb-reel.gif" alt="EcoDB — collective AI memory infrastructure, in motion" width="100%"></a>
+  <img src="hero-combined.gif" alt="EcoDB + Eco Relay — AI memory infrastructure and inter-session messaging" width="100%">
 </p>
 
 I build memory infrastructure for AI agents, and I direct teams of agents to ship it. Based in Sevilla.
