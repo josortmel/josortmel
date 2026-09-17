@@ -24,6 +24,10 @@ Shared memory for teams of agents. A 10-stage retrieval pipeline (GAMR) over a k
 
 Direct messages, rooms, and presence so independent AI agent sessions can coordinate on the same machine. Persistent delivery, IRC-style ephemeral rooms.
 
+### [FarOS](https://github.com/josortmel/FarOS) - agentic work coordination platform
+
+An operating system for teams of AI agents with long horizon tasks and jobs automatization
+
 ## Stack
 
 Backend: Python, FastAPI, PostgreSQL (pgvector, Apache AGE), Docker.
